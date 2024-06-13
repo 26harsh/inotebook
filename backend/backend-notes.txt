@@ -1,0 +1,4 @@
+*******Install this packages*******
+npm i mongoose
+npm i express
+node i -D nodemon  // to see the result weather the connection with mongo is done or not // to run write nodemon .\index.js
